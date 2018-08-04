@@ -1,6 +1,6 @@
 # profile_app
 
-A newProfile UI Flutter application.
+A Profile UI Design in Flutter application.
 
 ## Getting Started
 
